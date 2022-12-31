@@ -6,4 +6,6 @@ package com.momenta.toolchain;
  * @Date : 2022/12/15 13:20
  */
 public class ClearTempBranch {
+  
+  System.out.println(1);
 }
