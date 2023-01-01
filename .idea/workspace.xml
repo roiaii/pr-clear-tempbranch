@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f99c01d-0f95-480f-afca-6875b102e0b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -173,7 +172,7 @@
       <updated>1671081564756</updated>
       <workItem from="1671081567604" duration="3160000" />
       <workItem from="1671155706601" duration="11564000" />
-      <workItem from="1672475750900" duration="4290000" />
+      <workItem from="1672475750900" duration="5209000" />
     </task>
     <task id="LOCAL-00001" summary="新增test.txt文件">
       <created>1672500940502</created>
@@ -186,7 +185,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19014000" />
+    <option name="totallyTimeSpent" value="19933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
