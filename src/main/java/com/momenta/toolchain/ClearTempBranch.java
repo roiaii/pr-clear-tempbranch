@@ -7,10 +7,5 @@ package com.momenta.toolchain;
  */
 public class ClearTempBranch {
     public static void main(String[] args) {
-
-        System.out.println("cleartempbranch!");
-
-        System.out.println("args = [" + args + "]");
     }
-
 }
